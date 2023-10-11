@@ -1,5 +1,5 @@
 # mj_fileSDK
-文件浏览浏览器demo，使用明哲文件SDK，免费提供安全、高性能、高兼容性、低内存占用的文件浏览能力，支持 word、excel、ppt、pdf、txt 及 dwg、chm 等各类文档格式。
+文件浏览demo，使用明哲文件SDK，免费提供安全、高性能、高兼容性、低内存占用的文件浏览能力，支持 word、excel、ppt、pdf、txt 及 dwg、chm 等各类文档格式。
 
 Demo-DownloadUrl
 https://www.xcxwo.com/file_reader
