@@ -17,9 +17,10 @@ https://www.xcxwo.com/file_reader
    
    <img width="360" height="640" src=https://github.com/vp-noone/mingzhe_file_SDK/assets/37281667/ad06c8c6-49f9-4b24-b97d-27c703db800f)>
    
-   <img width="360" height="640" src=(https://github.com/vp-noone/mingzhe_file_SDK/assets/37281667/d49165a5-f52e-48a2-b0cc-6947596f55f0)>
+   <img width="360" height="640" src=https://github.com/vp-noone/mingzhe_file_SDK/assets/37281667/d49165a5-f52e-48a2-b0cc-6947596f55f0)>
+   
 ## 使用方法
-   SDK 初始化接口：
+   SDK 初始化接口
    ```
       //同步初始化：
       public static boolean initSDK(Context context)
@@ -30,7 +31,6 @@ https://www.xcxwo.com/file_reader
       //是否初始化完成：
       public static boolean isInitSuccess()
    ```
-   文件打开接口：
    以Dialog形式本地打开文件
    ```
      /**
